@@ -23,7 +23,7 @@ setup(
         "pytablereader",
         "requests",
         "twine==1.15.0",
-        "virtualenv==20.25.0",
+        "virtualenv==20.26.6",
         "urllib3",
     ],
     extras_require={
